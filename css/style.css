@@ -38,7 +38,7 @@ next line. Or Wrapping a gift in a box prevents it from coming out. */
     text-align: center;
 }
 .item>img{
-    width: 20rem;
+    width: 30rem;
     aspect-ratio: 1/1;
 }
 /* Button */
@@ -47,7 +47,7 @@ next line. Or Wrapping a gift in a box prevents it from coming out. */
 }
 .button-wrapper button {
     border: 3px solid;
-    border-image: linear-gradient( red, var(--awesome)) 11 fill;
+    border-image: linear-gradient( blue, var(--awesome)) 11 fill;
 }
 .image-animation {
     background: linear-gradient(to right, blue, grey);
